@@ -72,6 +72,6 @@ public class CalculatorServiceTest{
 		int rs = calculatorService.bigNumber(10,5);
 		assertEquals(10,rs);
 	}
-
+	
 
 }
